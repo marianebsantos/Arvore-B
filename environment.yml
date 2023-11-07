@@ -1,0 +1,5 @@
+name: Arvore-b
+channels:
+  - conda-forge
+dependencies:
+  - xeus-cling=0.15.1
