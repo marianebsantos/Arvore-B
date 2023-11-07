@@ -6,9 +6,14 @@ O mesmo busca analisar questões envolvendo tempo de processamento e complexidad
 Alunos: Lucas Roberto e Mariane Santos (https://github.com/DestroyedEden)
 
 
+
+
+Instruções de uso: Basta clicar no botão abaixo escrito "Binder" que você será redirecionado a um ambiente com o notebook
+
 Organização da estrutura: O repositório consiste em 3 arquivos.
 
-README.md consiste de algumas informações úteis para o melhor entendimento da utilização do código.
-arvore_B2.ipynb consiste no notebook com o código em si
-environment.yml consiste nas definições que permitem a utilização do kernel c++ no Binder, em especial a versão utilizada do xeus-cling
-Serão adicionados exemplos de uso
+- README.md consiste de algumas informações úteis para o melhor entendimento da utilização do código.
+- arvore_B2.ipynb consiste no notebook com o código em si
+- environment.yml consiste nas definições que permitem a utilização do kernel c++ no Binder, em especial a versão utilizada do xeus-cling
+
+# Nota: Serão adicionados exemplos de uso
