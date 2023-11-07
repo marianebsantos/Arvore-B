@@ -14,6 +14,6 @@ Alunos: Lucas Roberto e Mariane Santos (https://github.com/DestroyedEden)
 
 - README.md consiste de algumas informações úteis para o melhor entendimento da utilização do código.
 - arvore_B2.ipynb consiste no notebook com o código em si
-- environment.yml consiste nas definições que permitem a utilização do kernel c++ no Binder, em especial a versão utilizada do xeus-cling
+- environment.yml consiste nas definições que permitem a utilização do kernel c++ no Binder, em especial a versão utilizada do **xeus-cling**
 
 **Nota:** Serão adicionados exemplos de uso
