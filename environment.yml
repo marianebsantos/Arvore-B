@@ -1,4 +1,4 @@
-name: Arvore-b
+name: Arvore-B
 channels:
   - conda-forge
 dependencies:
