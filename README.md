@@ -8,9 +8,9 @@ Alunos: Lucas Roberto e Mariane Santos (https://github.com/DestroyedEden)
 
 
 
-Instruções de uso: Basta clicar no botão abaixo escrito "Binder" que você será redirecionado a um ambiente com o notebook
+**Instruções de uso:** Basta clicar no botão abaixo escrito "Binder" que você será redirecionado a um ambiente com o notebook
 
-Organização da estrutura: O repositório consiste em 3 arquivos.
+**Organização da estrutura:** O repositório consiste em 3 arquivos.
 
 - README.md consiste de algumas informações úteis para o melhor entendimento da utilização do código.
 - arvore_B2.ipynb consiste no notebook com o código em si
