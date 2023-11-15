@@ -18,4 +18,3 @@ O mesmo busca analisar questões envolvendo tempo de processamento e complexidad
 - arvore_B2.ipynb consiste no notebook com o código em si
 - environment.yml consiste nas definições que permitem a utilização do kernel c++ no Binder, em especial a versão utilizada do **xeus-cling**
 
-**Nota:** Serão adicionados exemplos de uso
