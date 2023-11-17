@@ -16,6 +16,8 @@ O mesmo busca analisar questões envolvendo tempo de processamento e complexidad
 - README.md consiste de algumas informações úteis para o melhor entendimento da utilização do código.
 - arvore_B2.ipynb consiste no notebook com o código em si
 - environment.yml consiste nas definições que permitem a utilização do kernel c++ no Binder, em especial a versão utilizada do **xeus-cling**
+- Arvores_B_Relatorio: consiste no relatório contendo do trabalho de pesquisa, resultados obtidos e conclusões
+- Arvores_B_Apresentacao: consiste na apresentação de slides do trabalho
 
 **Visualização de árvores B** https://www.cs.usfca.edu/~galles/visualization/BTree.html
 
